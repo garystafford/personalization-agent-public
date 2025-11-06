@@ -112,7 +112,7 @@ aws secretsmanager create-secret \
 }
 ```
 
-### 6. Optional: Build and Push Image to Amazon ECR(Mac)
+### Optional: Build and Push Image to Amazon ECR(Mac)
 
 Use the following commands to build and push the Docker Image to your Amazon ECR repository. Update the `ECR` value to match your Amazon ECR URL.
 
@@ -158,7 +158,7 @@ docker stack deploy -c docker-compose.yml $SWARM_ID
 docker service ls
 ```
 
-### Optional: Change Agent Configuration
+### Optional 8: Change Agent Configuration
 
 You can change the LLM used by the agent and whether tool consent is granted by changing the environment variable values in the `Dockerfile`:
 
@@ -168,7 +168,7 @@ ENV MODEL_TEMPERATURE=0.2
 ENV BYPASS_TOOL_CONSENT=True
 ```
 
-### 7. Access the Application
+### 6. Access the Application
 
 1. Once the container is running locally with Docker, you can access the application by navigating to `http://localhost:7860` in your web browser.
 
