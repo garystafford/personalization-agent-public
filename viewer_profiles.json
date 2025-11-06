@@ -1,0 +1,508 @@
+[
+    {
+        "registration_information": {
+            "first_name": "Jack",
+            "last_name": "Smith",
+            "username": "jacksmith",
+            "password": "jacksmith123!",
+            "email": "jack.smith@email.com",
+            "full_name": "Jack Smith"
+        },
+        "personalization": true,
+        "demographic_information": {
+            "gender": "Male",
+            "age_group": "35-44",
+            "primary_language": "English",
+            "relationship_status": "Married",
+            "income_range": "$200,000 and above",
+            "occupation": "Technology",
+            "country_region": "United States",
+            "education_level": "Bachelor's Degree",
+            "ethnicity": "White or European"
+        },
+        "viewing_preferences": {
+            "favorite_genres": [
+                "Superhero",
+                "Documentary",
+                "Sci-Fi/Fantasy"
+            ],
+            "genres_to_avoid": [
+                "Romance"
+            ],
+            "preferred_narrative_elements": [
+                "Thought-Provoking & Dramatic",
+                "Relaxing & Escapist"
+            ],
+            "preferred_themes": [
+                "Adventure & Exploration",
+                "Technology & the Digital Age"
+            ],
+            "preferred_plots": [
+                "Fast-Paced Plot",
+                "Thought-Provoking Story"
+            ],
+            "preferred_formats": [
+                "Documentary",
+                "Feature film",
+                "Podcast",
+                "Vlog"
+            ],
+            "preferred_min_lengths": [
+                "Under 5 minutes",
+                "30 minutes",
+                "60 minutes"
+            ],
+            "ratings_to_avoid": [],
+            "preferred_streaming_services": [
+                "YouTube",
+                "Instagram",
+                "Hulu"
+            ]
+        },
+        "personal_favorites": [
+            {
+                "title": "Wednesday Season 2",
+                "platform": "Netflix"
+            },
+            {
+                "title": "Dune: Part Two",
+                "platform": "HBO Max"
+            },
+            {
+                "title": "Game of Thrones",
+                "platform": "HBO Max"
+            }
+        ],
+        "viewing_history": [
+            {
+                "format": "Movie",
+                "title": "KPop Demon Hunters",
+                "viewed_date": "2025-02-10",
+                "platform": "Netflix",
+                "liked": true
+            },
+            {
+                "format": "Movie",
+                "title": "Wicked",
+                "viewed_date": "2025-04-20",
+                "platform": "HBO Max",
+                "liked": false
+            },
+            {
+                "format": "TV Show",
+                "title": "Wednesday S2E3",
+                "viewed_date": "2025-06-10",
+                "platform": "Netflix",
+                "liked": true
+            },
+            {
+                "format": "Vlog",
+                "title": "The Newbys",
+                "viewed_date": "2025-08-20",
+                "platform": "YouTube",
+                "liked": true
+            }
+        ],
+        "current_conditions": {
+            "season": "Summer",
+            "holiday": "Unspecified",
+            "occasion": "Unspecified",
+            "audience": "Solo",
+            "weather": "Unspecified"
+        },
+        "recommendations": [
+            {
+                "title": "The Electric State",
+                "preview_keyframe": "An orphaned teen and mysterious robot in a post-apocalyptic world filled with abandoned technology",
+                "streaming_platform": "Netflix",
+                "url": "https://www.netflix.com/title/81601562",
+                "reason": "This sci-fi adventure film from the Russo Brothers perfectly aligns with your preferences for thought-provoking storytelling and technology themes. Starring Millie Bobby Brown (from your beloved Wednesday series), it features an orphaned teen and mysterious robot exploring a post-apocalyptic world, delivering the epic sci-fi narrative style you enjoyed in Dune: Part Two.",
+                "liked": true
+            },
+            {
+                "title": "Silo Season 2",
+                "preview_keyframe": "Underground dystopian society with complex mysteries and dramatic revelations",
+                "streaming_platform": "Apple TV+",
+                "url": "https://tv.apple.com/us/show/silo/umc.cmc.6wsi780sz5tdbqcf11k76mkp7",
+                "reason": "This critically acclaimed sci-fi series combines your love for complex serialized storytelling with dystopian themes reminiscent of your Game of Thrones appreciation. The show's mysterious underground world and thought-provoking exploration of truth versus control creates the same dramatic tension you found compelling in Wednesday.",
+                "liked": true
+            },
+            {
+                "title": "Alien: Earth",
+                "preview_keyframe": "Dark atmospheric sci-fi horror with creatures and advanced technology on Earth",
+                "streaming_platform": "FX/Hulu",
+                "url": "https://fxnow.fxnetworks.com/show/95f00a9c-4cd4-4307-8eac-1485d9e439ea",
+                "reason": "As a prequel to the iconic Alien franchise, this series delivers the dark, atmospheric sci-fi horror you appreciate while exploring themes of exploration and survival. The show's blend of creature horror and technological elements matches your preference for genre-blending content like KPop Demon Hunters.",
+                "liked": true
+            },
+            {
+                "title": "The Boys Season 5 (Final Season)",
+                "preview_keyframe": "Satirical superhero deconstruction with fast-paced action and social commentary",
+                "streaming_platform": "Amazon Prime Video",
+                "url": "https://www.primevideo.com/detail/The-Boys/0GZPP2NZJFQ2WMY7WG8QZPM2JJ",
+                "reason": "This final season of the superhero satire delivers the fast-paced, thought-provoking storytelling you crave while deconstructing the superhero genre you love. Its sharp commentary on technology, power, and society aligns perfectly with your interests as a tech professional who appreciates innovative approaches to familiar formats.",
+                "liked": true
+            }
+        ]
+    },
+    {
+        "registration_information": {
+            "first_name": "Vivian",
+            "last_name": "L\u00f3pez",
+            "username": "vivianlopez",
+            "password": "vivianlopez123!",
+            "email": "vivian.lopez@email.com",
+            "full_name": "Vivian L\u00f3pez"
+        },
+        "personalization": true,
+        "demographic_information": {
+            "gender": "Female",
+            "age_group": "25-34",
+            "primary_language": "English",
+            "relationship_status": "Single",
+            "income_range": "$75,000 - $99,999",
+            "occupation": "Business & Finance",
+            "country_region": "United States",
+            "education_level": "Bachelor's Degree",
+            "ethnicity": "Hispanic or Latino"
+        },
+        "viewing_preferences": {
+            "favorite_genres": [
+                "Crime/Mystery",
+                "Romance",
+                "Comedy"
+            ],
+            "genres_to_avoid": [
+                "Horror",
+                "Musical"
+            ],
+            "preferred_narrative_elements": [
+                "Thought-Provoking & Dramatic",
+                "Inspiring & Uplifting"
+            ],
+            "preferred_themes": [
+                "Personal Growth & Transformation",
+                "Friendship"
+            ],
+            "preferred_plots": [
+                "Complex Characters",
+                "Strong Emotional Impact"
+            ],
+            "preferred_formats": [
+                "Feature film",
+                "Sitcom",
+                "Episodic series",
+                "Livestream"
+            ],
+            "preferred_min_lengths": [
+                "30 minutes",
+                "60 minutes",
+                "90 minutes"
+            ],
+            "ratings_to_avoid": [
+                "NC-17 - Adults Only"
+            ],
+            "preferred_streaming_services": [
+                "Netflix",
+                "Hulu",
+                "Amazon Prime Video"
+            ]
+        },
+        "personal_favorites": [
+            {
+                "title": "Nobody Wants This",
+                "platform": "Netflix"
+            },
+            {
+                "title": "Only Murders in the Building (Season 4)",
+                "platform": "Hulu"
+            },
+            {
+                "title": "A Good Girl's Guide to Murder",
+                "platform": "Netflix"
+            }
+        ],
+        "viewing_history": [],
+        "current_conditions": {
+            "season": "Unspecified",
+            "holiday": "Unspecified",
+            "occasion": "Unspecified",
+            "audience": "Unspecified",
+            "weather": "Unspecified"
+        },
+        "recommendations": [
+            {
+                "title": "Missing You",
+                "preview_keyframe": "https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABRbYJbKOK1_-_9_CwLuPWNd8jQQkHfJJbnhYPpGxJcIkGYXoMgMO9xj1GZ1KnkOYVZKWZjBRVS0BFTsaI4gaXjQ3XVZZxQ1Hl3Ux.jpg",
+                "streaming_platform": "Netflix",
+                "url": "https://www.netflix.com/title/81252916",
+                "reason": "This 2025 crime mystery based on Harlan Coben's novel follows Detective Kat Donovan who discovers her long-lost fianc\u00e9 on a dating app 11 years after his disappearance. With complex characters and emotional depth, this series combines your love for crime/mystery with thought-provoking drama that explores personal transformation as Kat uncovers secrets about her father's murder and her ex's disappearance.",
+                "liked": true
+            },
+            {
+                "title": "Bodies",
+                "preview_keyframe": "https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABdFRzKtYJC9CnfR8N9xK9FYQtQZK9qOlVJgd0aSbGT3Y_5-_HWG0HA7-_Lw7WcpJfZnQf5Vw3Nj2AxKUEzHFzC9KoX_8OQY1Jg4L.jpg",
+                "streaming_platform": "Netflix",
+                "url": "https://www.netflix.com/title/81252916",
+                "reason": "This mind-bending crime mystery series follows four detectives across different time periods (1890, 1941, 2023, and 2053) who discover the same murder victim in each era. Perfect for your crime/mystery preferences, it offers complex characters and a thought-provoking narrative that will keep you intellectually engaged while delivering strong emotional impact as the detectives unravel a conspiracy spanning over 150 years.",
+                "liked": true
+            },
+            {
+                "title": "The Hunting Wives",
+                "preview_keyframe": "https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABRJAcNUeJxQff0jtBUUPUGxm9KXfCIvdbYYKkGGAHEy6QgzwZsRUgYGwQH8_HQKn9P7uUhHFk3-8nGcTEQWnEwlnxBJZHnQjQCDr.jpg",
+                "streaming_platform": "Netflix",
+                "url": "https://www.netflix.com/title/81392163",
+                "reason": "This drama follows Sophie O'Neil (Brittany Snow) who moves to Texas with her family and becomes entangled with a group of sophisticated women with dangerous secrets. Combining elements of crime/mystery with dramatic personal relationships, this series features complex female characters navigating friendship, personal growth, and moral dilemmas\u2014all themes you enjoy\u2014while delivering the emotional impact and thought-provoking scenarios you prefer.",
+                "liked": true
+            },
+            {
+                "title": "Emily in Paris (Season 4)",
+                "preview_keyframe": "https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABXFwWvpjz9QvzmY8wu9liPRu2cK_VIBuRjGIfB9tNJDHnATnGZRMUL9-c8FXa_recmB7nnJZKRNX7z7vXWXHEZjAyYTQXHw3Jvs8.jpg",
+                "streaming_platform": "Netflix",
+                "url": "https://www.netflix.com/title/81037371",
+                "reason": "The latest season of this romantic comedy series follows marketing executive Emily as she navigates professional challenges and romantic entanglements in Paris and Rome. Released in two parts in August and September 2024, it perfectly aligns with your preference for romance and comedy genres while featuring personal growth and friendship themes. The episodic format and 30-60 minute episodes match your preferred viewing format and length.",
+                "liked": true
+            }
+        ]
+    },
+    {
+        "registration_information": {
+            "first_name": "Amit",
+            "last_name": "Agarwal",
+            "username": "amitagarwal",
+            "password": "amitagarwal123!",
+            "email": "amita.garwal@email.com",
+            "full_name": "Amit Agarwal"
+        },
+        "personalization": true,
+        "demographic_information": {
+            "gender": "Male",
+            "age_group": "18-24",
+            "primary_language": "Hindi",
+            "relationship_status": "Single",
+            "income_range": "$50,000 - $74,999",
+            "occupation": "Service & Retail",
+            "country_region": "India",
+            "education_level": "Some College",
+            "ethnicity": "Asian"
+        },
+        "viewing_preferences": {
+            "favorite_genres": [
+                "Musical",
+                "Crime/Mystery",
+                "Comedy"
+            ],
+            "genres_to_avoid": [
+                "Sci-Fi/Fantasy"
+            ],
+            "preferred_narrative_elements": [
+                "Inspiring & Uplifting"
+            ],
+            "preferred_themes": [
+                "Humor & Satire"
+            ],
+            "preferred_plots": [
+                "Fast-Paced Plot",
+                "Humor"
+            ],
+            "preferred_formats": [
+                "Episodic series",
+                "Game show",
+                "Short film",
+                "Trailer"
+            ],
+            "preferred_min_lengths": [
+                "Under 5 minutes",
+                "30 minutes",
+                "Over 90 minutes"
+            ],
+            "ratings_to_avoid": [
+                "G - General Audiences"
+            ],
+            "preferred_streaming_services": [
+                "TikTok",
+                "YouTube",
+                "Netflix"
+            ]
+        },
+        "personal_favorites": [
+            {
+                "title": "Indian Idol",
+                "platform": "YouTube"
+            },
+            {
+                "title": "Mumbai Diaries 26/11",
+                "platform": "Amazon Prime Video"
+            },
+            {
+                "title": "Tribhuvan Mishra CA Topper",
+                "platform": "Netflix"
+            }
+        ],
+        "viewing_history": [],
+        "current_conditions": {
+            "season": "Unspecified",
+            "holiday": "Christmas",
+            "occasion": "Unspecified",
+            "audience": "Family",
+            "weather": "Snowy"
+        },
+        "recommendations": [
+            {
+                "title": "The Great Indian Kapil Show (Season 3)",
+                "preview_keyframe": "Kapil Sharma hosting with celebrity guests on colorful stage set",
+                "streaming_platform": "Netflix",
+                "url": "https://www.netflix.com/title/81737430",
+                "reason": "Perfect for your family viewing during the Christmas season, this comedy talk show features Kapil Sharma's signature humor with celebrity guests. Season 3's fresh episodes with stars like Salman Khan deliver the inspiring, uplifting comedy you enjoy while avoiding G-rated content.",
+                "liked": true
+            },
+            {
+                "title": "Mirzapur (Season 3)",
+                "preview_keyframe": "Intense crime scene with characters in dramatic confrontation",
+                "streaming_platform": "Amazon Prime Video",
+                "url": "https://www.primevideo.com/detail/Mirzapur/0HV20AIVKWRM0Q9N6NCXO7DKD5",
+                "reason": "This fast-paced crime thriller series matches your preference for crime/mystery content with mature themes. The power struggles and intense character dynamics in Purvanchal offer the gripping storytelling you appreciate, similar to your enjoyment of Mumbai Diaries 26/11.",
+                "liked": true
+            },
+            {
+                "title": "Scam 2003: The Telgi Story",
+                "preview_keyframe": "Abdul Karim Telgi in period setting with stamp papers and documents",
+                "streaming_platform": "Sony LIV",
+                "url": "https://www.sonyliv.com/shows/scam-2003-the-telgi-story-hindi-1700001283",
+                "reason": "Based on true events about Abdul Karim Telgi's stamp paper scam, this biographical crime thriller combines your love for crime/mystery with inspiring narratives of transformation. The series offers the mature, thought-provoking content you seek while avoiding sci-fi elements.",
+                "liked": true
+            },
+            {
+                "title": "Call Me Bae",
+                "preview_keyframe": "Ananya Panday as fashionable heiress in glamorous Mumbai setting",
+                "streaming_platform": "Amazon Prime Video",
+                "url": "https://www.primevideo.com/detail/Call-Me-Bae/0TF2BODX83KZOWTP08NXFE897E",
+                "reason": "Starring Ananya Panday, this riches-to-rags comedy-drama series offers the humor and satirical elements you enjoy while providing an inspiring story of self-discovery. The show's light-hearted approach with family-friendly themes makes it ideal for your current Christmas viewing context.",
+                "liked": true
+            }
+        ]
+    },
+    {
+        "registration_information": {
+            "first_name": "Charlotte",
+            "last_name": "Shandall",
+            "username": "charlotte.shandall",
+            "password": "charlotteshandall123!",
+            "email": "charlotte.shandall@email.com",
+            "full_name": "Charlotte Shandall"
+        },
+        "personalization": true,
+        "demographic_information": {
+            "gender": "Female",
+            "age_group": "55-64",
+            "primary_language": "English",
+            "relationship_status": "Married",
+            "income_range": "$50,000 - $74,999",
+            "occupation": "Business & Finance",
+            "country_region": "United States",
+            "education_level": "Bachelor's Degree",
+            "ethnicity": "White or European"
+        },
+        "viewing_preferences": {
+            "favorite_genres": [
+                "Crime/Mystery",
+                "Historical",
+                "Romance"
+            ],
+            "genres_to_avoid": [
+                "Horror"
+            ],
+            "preferred_narrative_elements": [
+                "Suspenseful & Thrilling",
+                "Lighthearted & Fun"
+            ],
+            "preferred_themes": [
+                "Redemption",
+                "Adventure & Exploration"
+            ],
+            "preferred_plots": [
+                "Beautiful Cinematography",
+                "Satisfying Ending"
+            ],
+            "preferred_formats": [
+                "Animated film",
+                "Episodic series",
+                "Feature film",
+                "Miniseries",
+                "Parody"
+            ],
+            "preferred_min_lengths": [
+                "60 minutes",
+                "90 minutes",
+                "Over 90 minutes"
+            ],
+            "ratings_to_avoid": [],
+            "preferred_streaming_services": [
+                "Disney+",
+                "Hulu",
+                "Netflix",
+                "HBO Max"
+            ]
+        },
+        "personal_favorites": [
+            {
+                "title": "Sex In The City",
+                "platform": "HBO Max"
+            },
+            {
+                "title": "Gilded Age",
+                "platform": "HBO Max"
+            },
+            {
+                "title": "The Diplomat",
+                "platform": "Netflix"
+            },
+            {
+                "title": "Pretty Women",
+                "platform": "Disney+"
+            }
+        ],
+        "viewing_history": [],
+        "current_conditions": {
+            "season": "Summer",
+            "holiday": "Unspecified",
+            "occasion": "Unspecified",
+            "audience": "Couples",
+            "weather": "Unspecified"
+        },
+        "recommendations": [
+            {
+                "title": "Bridgerton (Season 3)",
+                "preview_keyframe": "Regency-era ballroom scene with elegant period costumes and romantic cinematography",
+                "streaming_platform": "Netflix",
+                "url": "https://www.netflix.com/tudum/articles/bridgerton-season-3-filming-cast-news",
+                "reason": "Perfect for your love of historical romance and beautiful cinematography, this Regency-era series focuses on Colin and Penelope's love story with the elegant period drama elements you enjoyed in \"The Gilded Age,\" featuring strong character development and satisfying romantic storylines ideal for couples viewing.",
+                "liked": true
+            },
+            {
+                "title": "Nobody Wants This",
+                "preview_keyframe": "Contemporary romantic scene featuring Kristen Bell and Adam Brody in intimate conversation",
+                "streaming_platform": "Netflix",
+                "url": "https://qr.netflix.com/yt/title/81591296",
+                "reason": "This 2024 romantic comedy starring Kristen Bell and Adam Brody offers the lighthearted fun and romance you appreciate, with sophisticated humor and relationship themes of redemption and personal growth that align with your preference for character-driven stories with satisfying emotional payoffs.",
+                "liked": true
+            },
+            {
+                "title": "Only Murders in the Building (Season 4)",
+                "preview_keyframe": "Steve Martin, Martin Short, and Selena Gomez investigating a mystery in an elegant apartment building",
+                "streaming_platform": "Hulu",
+                "url": "https://www.hulu.com/series/only-murders-in-the-building-54578984-94cb-4321-a0c7-6c2f48fc8208",
+                "reason": "Combining your favorite crime/mystery elements with lighthearted comedy, this series starring Steve Martin, Martin Short, and Selena Gomez delivers the suspenseful thrills you enjoy while maintaining the fun, character-driven storytelling that makes it perfect for couples viewing during summer evenings.",
+                "liked": true
+            },
+            {
+                "title": "My Life with the Walter Boys (Season 2)",
+                "preview_keyframe": "Young woman surrounded by multiple brothers in a picturesque family home setting",
+                "streaming_platform": "Netflix",
+                "url": "https://www.netflix.com/tudum/articles/my-life-with-the-walter-boys-season-2-renewal-cast-photos",
+                "reason": "This romance series offers themes of adventure, exploration, and redemption with beautiful cinematography and character development you value, providing the longer-form episodic content you prefer while delivering the emotionally satisfying storytelling that resonates with your sophisticated viewing preferences.",
+                "liked": true
+            }
+        ]
+    }
+]

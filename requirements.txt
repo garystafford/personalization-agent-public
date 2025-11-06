@@ -1,0 +1,12 @@
+boto3
+botocore
+bedrock-agentcore
+bedrock-agentcore-starter-toolkit
+gradio
+numpy
+pydantic
+strands-agents
+strands-agents-builder
+strands-agents-tools
+jmespath
+python-dateutil

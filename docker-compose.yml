@@ -1,0 +1,17 @@
+version: "3.8"
+services:
+  personalization-agent:
+    image: <YOUR_IMAGE_GOES_HERE>
+    environment:
+      - AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID}
+      - AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY}
+      - AWS_SESSION_TOKEN=${AWS_SESSION_TOKEN}
+    ports:
+      - "7860:7860"
+    networks:
+      - personalization-agent
+    security_opt:
+      - no-new-privileges:true
+networks:
+  personalization-agent:
+    driver: overlay

@@ -1,0 +1,166 @@
+/* Form Styles */
+body {
+  background-color: #262626;
+}
+.form {
+  max-width: 1000px; /* Adjust this value as needed */
+}
+#logs-box textarea {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 12px;
+}
+#config-info p {
+  font-size: 13px;
+}
+footer {
+  display: none !important;
+}
+#input-query {
+  font-size: 12px;
+}
+.blue-text,
+#blue_subhead h2,
+.blue-text h2 {
+  color: #93c5fd;
+}
+.subtitle {
+  font-size: 16px;
+  margin-top: 12px;
+}
+.blue-button button {
+  background-color: #93c5fd;
+}
+.title {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+.logout-button {
+  max-width: 100px; /* Adjust this value as needed */
+}
+
+/* Recommendations */
+.pagination-container {
+  width: 100%;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+.pagination {
+  display: inline-flex;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.pagination-item {
+  margin: 0 6px;
+}
+.pagination-link {
+  text-decoration: none;
+  color: #7ec7ff;
+}
+.pagination-link:hover {
+  color: #ffffff;
+}
+.recommendations-container {
+  max-width: 1300px;
+  margin: 20px auto;
+  background: #2d323c;
+  border-radius: 12px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+}
+.recommendations-title {
+  text-align: center;
+  margin-bottom: 32px;
+  color: #ffffff;
+  letter-spacing: 0.5px;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 32px;
+}
+.card {
+  background: #353a45;
+  border-radius: 10px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.7);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: outline 0.2s;
+  box-shadow: 0.2s;
+}
+.card:hover {
+  /* outline: 1.5px solid #7ec7ff; */
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.1);
+}
+.main-img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 16px;
+  background: #444a58;
+  display: block;
+}
+.title {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-bottom: 8px;
+  color: #93c5fd;
+  text-align: center;
+}
+.platform {
+  font-size: 1.05em;
+  color: #b0b6c2;
+  margin-bottom: 8px;
+}
+.reason {
+  font-size: 0.85em;
+  color: #c7cad4;
+  margin-bottom: 12px;
+  text-align: center;
+}
+.card-footer {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-top: 12px;
+}
+.link {
+  display: inline-block;
+  color: #93c5fd;
+  text-decoration: none;
+  font-weight: 500;
+  background: #23272f;
+  padding: 6px 16px;
+  border-radius: 6px;
+  transition: foreground 0.2s, color 0.2s;
+  margin-right: 24px;
+  margin-left: 48px;
+}
+.link:hover {
+  color: #fff;
+}
+.reaction-img {
+  width: 18px;
+  height: 18px;
+  margin-right: 12px;
+  display: block;
+}
+
+/* Chatbot */
+.message-input textarea {
+  margin-right: 8px;
+  overflow: hidden;
+  resize: none;
+  height: auto;
+}
+
+.chatbot h2{
+  color: #93c5fd;
+}
