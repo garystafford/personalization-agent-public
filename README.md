@@ -10,7 +10,7 @@ This repository contains an implementation of the Personalized Recommendation Ag
 
 ## Video Demonstration
 
-A video demonstration of the latest Personalized Recommendation Agent, without audio, is available for viewing on [WorkDocs](https://amazon.awsapps.com/workdocs-amazon/index.html#/document/9cb1511aaea86803e6b5241308eebf4a75c4e1b1c61356977143182977873338).
+A video demonstration of the latest Personalized Recommendation Agent is on [YouTube](https://youtu.be/JscVm6TYPRU?si=5OKyaF9JKZS1pB8W).
 
 ## File Relationships
 
